@@ -1,0 +1,29 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+/*navbar section*/
+
+.logo{
+	width: 8%;
+    margin-left: 15px;
+    border-radius: 29px
+}
+
+.a{
+	margin-right: 53px;   
+    font-weight: bolder!important;
+    font-family: fangsong;
+    font-size: larger!important;
+}
+
+/*slider section*/
+.b{
+	background-size: cover;
+	width: 100%;
+	height: 725px;
+}
+.c{
+	margin-bottom: 255px;
+}
